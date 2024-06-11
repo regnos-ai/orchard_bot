@@ -1,0 +1,8 @@
+# Ignore PDF files
+*.pdf
+
+# Ignore virtual environment folder
+venv/
+
+# Ignore .env file
+.env
